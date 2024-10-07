@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BoksKlasser/BoksKlasser.iml" filepath="$PROJECT_DIR$/BoksKlasser/BoksKlasser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXP1/EXP1.iml" filepath="$PROJECT_DIR$/EXP1/EXP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EksamensOpgaver/EksamensOpgaver.iml" filepath="$PROJECT_DIR$/EksamensOpgaver/EksamensOpgaver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opgaver/Opgaver.iml" filepath="$PROJECT_DIR$/Opgaver/Opgaver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SkakForsoerg/SkakForsoerg.iml" filepath="$PROJECT_DIR$/SkakForsoerg/SkakForsoerg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Skole.iml" filepath="$PROJECT_DIR$/Skole.iml" />
+    </modules>
+  </component>
+</project>

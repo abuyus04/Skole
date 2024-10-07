@@ -1,0 +1,20 @@
+her kommer et tal: 
+500
+
+person0 m 53
+person1 k 13
+person2 m 27
+person3 m 44
+person4 m 37
+
+
+
+// skriv pakke navnet hvis det ikke virker
+        java.io.FileReader fil = new java.io.FileReader("src//LaesMig.txt");
+        BufferedReader ind = new BufferedReader(fil);
+
+        String linje = ind.readLine();
+        while (linje !=null){
+
+        System.out.println("læst: "+linje);
+        linje = ind.readLine();
